@@ -1,6 +1,6 @@
 # 🎬 Netflix Movies & TV Shows Analysis using SQL
 
-![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
+![](https://github.com/aayushBhavesh/Netflix_SQL/blob/main/logo.png)
 
 ## 📌 Project Overview
 
@@ -108,32 +108,18 @@ This project showcases practical SQL skills expected from an entry-level to inte
 
 ## 👤 Author
 
-**Zero Analyst**
+**Aayush Shah**
 Aspiring Data Analyst | SQL | Data Exploration | Business Analysis
 
 This project is part of my analytics portfolio and reflects my approach to solving structured business problems using data.
 
 ---
 
-## 🔗 Connect
+## 🔗 Connect with Me
 
-* LinkedIn
-* GitHub
-* YouTube
-* Instagram
+- 💼 LinkedIn: https://www.linkedin.com/in/aayush0329/
+- 📧 Email: shahaayush604@gmail.com
+
 
 ---
 
-### Final Note (Straight Truth)
-
-If your README doesn’t explain **why** the analysis matters, the project is weak — even if the SQL is correct.
-This README fixes that.
-
-If you want:
-
-* **Interview explanations for each query**
-* **Advanced SQL extension questions**
-* **Power BI / Tableau mapping**
-* **Resume-ready project bullets**
-
-Say the word.
