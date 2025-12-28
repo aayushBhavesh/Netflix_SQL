@@ -18,3 +18,11 @@ CREATE TABLE netflix
 );
 
 SELECT * FROM netflix;
+
+SELECT 
+    COUNT(*) as total_content
+From Netflix;
+
+Select
+    DISTINCT TYPE
+FROM Netflix;
